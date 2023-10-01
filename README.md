@@ -1,12 +1,12 @@
 # Infrastruktur der Datenanalyse
 
-Themenblock von **Tag 7** im
+Themenblock **Infrastruktur** (Tag 8) im
 CAS **[Spatial Data Analytics][sda]** FHNW 
 
 Unterlagen
 
-- [Tagesprogramm](docs/TP_Tag7_UJR.pdf "PDF")
-- [Skript](docs/Skript_Infrastruktur_SDA.pdf "PDF")
+- [Tagesprogramm](2023/TP_Tag8_UJR.pdf "PDF")
+- [Skript](2023/Skript_Infrastruktur_SDA.pdf "PDF")
 
 Papers, Daten, Software Installer werden ggf. bereitgestellt
 über einen freigegebenen Ordner:
